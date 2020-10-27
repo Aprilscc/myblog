@@ -18,7 +18,7 @@ I'll share a photo of cat there
 
 **And here's a link to the former blog**
 
-[the gallery of non-sense](../media/about.html)
+[British Museum](/media/about.html)
 
 
 
