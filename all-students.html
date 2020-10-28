@@ -1,0 +1,10 @@
+---
+layout: page
+title: Student Museum
+---
+
+{% for student in site.data.students %}
+<p><a href="{{ student.blog_url }}">{{ student.name }}</a></p>
+{% else %}
+  <p>Hmm there's no data</p>
+{% endfor %}
