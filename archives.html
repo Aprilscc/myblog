@@ -1,0 +1,9 @@
+---
+layout: page
+title: Archives
+---
+
+{% for archive in site.archives %} <a href="{{ archive.url }}">
+    <h2>{{ archive.artist }}: {{ archive.title}} ({{ archive.year }})</h2>
+    <img src="{{ archive.image }}" alt="{{ archive.artist }}: {{ archive.title}}"> </a>
+    {% endfor %}

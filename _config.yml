@@ -50,3 +50,13 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+collections:
+  artworks:
+    output: true
+
+
+collections:
+  archives:
+    output: true
