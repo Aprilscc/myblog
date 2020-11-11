@@ -8,3 +8,4 @@ dimensions: (27.1 cm x 572.8 cm)
 permanent_url: https://www.dpm.org.cn/collection/paint/228747.html
 image: /media/palacemuseum3.jpg
 ---
+
